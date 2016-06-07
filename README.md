@@ -19,11 +19,17 @@ cp -r paste_keystrokes.workflow ~/Library/Services/
 
 ![Keyboard Shortcut Control Panel](img/keyboard_shortcut.png)
 
+## Running the Service
+
+The service may be run from the services submenu of any Application Menu 
+(in the system menubar):
+![Services Application Menu](img/services_menu.png)
+
+
 ## Troubleshooting
 
 ### Keyboard Shortcut Doesn't Do Anything
 
 After initially installing the service, it may not run from a keyboard shortcut.
-For the first use, run the service from the Application Menu in the menubar:
+For the first use, [run the service](#running-the-service) from the Application Menu in the menubar.
 
-![Services Application Menu](img/services_menu.png)
